@@ -4,6 +4,6 @@ Hi, this repo consist of the final projects in FCC responsive web design. These 
 
 - [x] tribute-page
 - [x] survey-form
-- [] product-landing-page
+- [x] product-landing-page
 - [] technical-documentation-page
 - [] personal-portfolio-web
